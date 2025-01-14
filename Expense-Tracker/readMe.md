@@ -1,0 +1,1 @@
+This website is used for tracking monthly expenses. It is build using HTML,CSS and JavaScript. The website is divided into two main section: the above section is to input the expense description , category of expense and the amount and the below section is for output purpose. It will display the expense in a row format so that we can keep a tally of our monthly expenses.

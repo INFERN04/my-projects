@@ -1,0 +1,1 @@
+This is shopping website designed for the user to search and buy products. This is a simple website with basic features. This website is designed using HTML and CSS. There is searchbar at the top for user to browse the products and different sections for different style of fashion.
